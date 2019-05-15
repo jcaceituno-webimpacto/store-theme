@@ -12,12 +12,11 @@
   },
   "dependencies": {
     "vtex.store": "2.x",
-    "vtex.store-header": "2.x",
     "vtex.store-footer": "2.x",
     "vtex.store-components": "3.x",
     "webimpacto.carousel": "1.x",
     "webimpacto.bikinis": "1.x",
-    "webimpacto.headerbikinis": "1.x",
+    "webimpacto.header": "1.x",
     "webimpacto.topbar":"1.x",
     "vtex.shelf": "1.x",
     "vtex.menu": "2.x",

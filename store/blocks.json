@@ -2,7 +2,6 @@
   "store.home.webimpacto": {
     "blocks": [
       "carouseljc#home",
-      "headerbikinis#home",
       "bikinis#home",
       "shelf#home"
     ]
@@ -244,10 +243,7 @@
       "imagenes": []
     }
   },
-  "headerbikinis#home":{
-    "blocks":[
-      "topbar"
-    ]
+  "header#home":{
   },
   "shelf#home": {
     "blocks": [
