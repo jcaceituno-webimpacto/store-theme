@@ -1,5 +1,5 @@
 {
     "store.home.webimpacto": {
-       "allowed": ["carouseljc","bikinis","topbar"]
+       "allowed": ["carouseljc","bikinis","topbar","header","minicartjc","menujc"]
     }
 }

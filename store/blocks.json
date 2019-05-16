@@ -58,18 +58,16 @@
   },
   "header": {
     "blocks": [
-      "logo"
+      "webimpacto.header:topbar",
+      "minicartjc",
+      "menujc"
     ]
   },
   "header.full": {
     "blocks": [
-      "login",
-      "minicart",
-      "logo",
-      "search-bar",
-      "menu-link",
-      "telemarketing",
-      "category-menu"
+      "webimpacto.header:topbar",
+      "minicartjc",
+      "menujc"
     ]
   },
   "menu-link": {
