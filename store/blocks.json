@@ -59,14 +59,15 @@
   "header": {
     "blocks": [
       "webimpacto.header:topbar",
-      "minicartjc",
+      "minicart",
       "menujc"
     ]
   },
   "header.full": {
     "blocks": [
       "webimpacto.header:topbar",
-      "minicartjc",
+      "login",
+      "minicart",
       "menujc"
     ]
   },
